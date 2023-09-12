@@ -1,2 +1,4 @@
 # Authwiz
-## Tool to verify softwawre product license.
+## Product License Authenticator Tool
+### JAVA - SQL - AngularJS
+
